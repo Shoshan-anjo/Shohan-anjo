@@ -32,5 +32,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoshan-anjo&layout=compact&theme=tokyonight)](https://github.com/Shoshan-anjo)  
 
 ---
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Shohan-anjo&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 🔹 **¿Interesado en colaborar?** ¡No dudes en contactarme!
