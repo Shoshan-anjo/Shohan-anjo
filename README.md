@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello there! I'm **Shoshan-anjo** (Shohan), a passionate and detail-oriented developer with a strong foundation in web technologies and software development. My journey in programming began with a curiosity about how things work behind the scenes, and it has since evolved into a deep passion for creating efficient, scalable solutions.
+👋 Hello there! I'm **Shoshan-anjo**, a passionate and detail-oriented developer with a strong foundation in web technologies and software development. My journey in programming began with a curiosity about how things work behind the scenes, and it has since evolved into a deep passion for creating efficient, scalable solutions.
 
 ## 🔧 What I Do
 - 💻 **Front-End Development**: Building responsive, accessible interfaces with HTML, CSS, and JavaScript
